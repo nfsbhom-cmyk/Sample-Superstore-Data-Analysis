@@ -151,8 +151,5 @@ The IBM Cognos dashboard provides:
 •	Faster decision-making through visual insights
 •	Improved communication of data findings to stakeholders
 ________________________________________
-🖼️ Dashboard Preview
-(Insert screenshot of your IBM Cognos dashboard here)
-________________________________________
 
 
